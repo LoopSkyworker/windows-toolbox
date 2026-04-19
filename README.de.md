@@ -6,7 +6,7 @@ Verschiedene Skripte und Anleitungen für **Microsoft Windows**.
 
 ## ⚖️ Lizenz
 
-Die Lizenzrechte und -beschränkungen (MIT) findest du in der Datei [LICENSE](/LICENSE.md).
+Die Lizenzrechte und -beschränkungen (MIT) findest du in der Datei [LICENSE](/LICENSE).
 
 ## ✋ Haftungsausschluss
 

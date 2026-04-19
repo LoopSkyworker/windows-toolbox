@@ -2,7 +2,7 @@
 
 Some useful PowerShell scripts for the Windows OS.
 
-> Zur [deutschen Version](/README.de).
+> Zur [deutschen Version](/README.de.md).
 
 > [!NOTE]
 > 
