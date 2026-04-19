@@ -2,7 +2,7 @@
 
 Hier findest du einige nützliche PowerShell-Skripte für Windows.
 
-> Switch to [english version](/README.md).
+> Switch to [english version](/powershell-scripts/README.md).
 
 > [!NOTE]
 > 
