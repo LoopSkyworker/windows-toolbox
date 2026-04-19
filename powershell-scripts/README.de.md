@@ -2,7 +2,7 @@
 
 Hier findest du einige nützliche PowerShell-Skripte für Windows.
 
-> Switch to [english version](/README.md).
+> Switch to [english version](/README).
 
 > [!NOTE]
 > 
@@ -29,7 +29,7 @@ Andererseits gibt es eine besorgniserregende Entwicklung: Immer mehr Arbeitgeber
 
 ## ⚖️ Lizenz
 
-Die Lizenzrechte und -beschränkungen (MIT) findest du in der Datei [LICENSE](/LICENSE.md).
+Die Lizenzrechte und -beschränkungen (MIT) findest du in der Datei [LICENSE](/LICENSE).
 
 ---
 

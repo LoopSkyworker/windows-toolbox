@@ -2,7 +2,7 @@
 
 Some useful PowerShell scripts for the Windows OS.
 
-> Zur [deutschen Version](/README.de.md).
+> Zur [deutschen Version](/README.de).
 
 > [!NOTE]
 > 
@@ -29,7 +29,7 @@ On the other hand, there is a worrying trend: more and more employers are relyin
 
 ## ⚖️ **License**
 
-See the [LICENSE](/LICENSE.md) file for license rights and limitations (MIT).
+See the [LICENSE](/LICENSE) file for license rights and limitations (MIT).
 
 ---
 
