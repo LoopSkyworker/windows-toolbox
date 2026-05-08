@@ -13,6 +13,8 @@ Some useful PowerShell scripts for the Windows OS.
 
 ## liveness-indicator-via-emulation.ps1
 
+![LIVE](/powershell-scripts/assets/images/liveness-indicator-via-emulation.png)
+
 **What this script does** 
 
 LIVE is a kind of "mouse jiggler", but for the keyboard. It's a simple script which basically utilises just a single line of code. It simulates a keystroke at a specified time interval. This prevents the screen saver from activating, the PC from entering standby mode, and certain applications like Microsoft Teams from setting the user status to "AFK".  
