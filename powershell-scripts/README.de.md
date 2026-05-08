@@ -13,6 +13,8 @@ Hier findest du einige nützliche PowerShell-Skripte für Windows.
 
 ## liveness-indicator-via-emulation.ps1
 
+![LIVE](/powershell-scripts/assets/images/liveness-indicator-via-emulation.png)
+
 **Was dieses Skript macht** 
 
 LIVE ist eine Art "Mouse Jiggler", nur eben für die Tastatur. Ein simples Skript, das nur aus einer einzigen Zeile Code besteht. Es simuliert in einem bestimmten Zeitintervall einen Tastendruck auf der Tastatur. Dadurch wird verhindert, dass der Bildschirmschoner aktiviert wird, der PC in den Standby-Modus wechselt, sowie dass bestimmte Anwendungen wie Microsoft Teams den Benutzer-Status auf "AFK" setzen. 
